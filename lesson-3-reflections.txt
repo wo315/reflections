@@ -1,0 +1,1 @@
+I am learing how to use the git and github. I think i have some trouble about the ssh mode.
